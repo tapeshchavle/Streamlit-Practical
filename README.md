@@ -14,7 +14,7 @@ It is lightweight, interactive, and stylish — perfect for showcasing your prof
 - 📞 **Contact Section** – Add your email, LinkedIn, or GitHub for easy reach.
 - 🎨 **Modern UI** – Custom CSS for a clean and stylish look.
 
----
+--- ..
 
 ## 🖼️ Demo Screenshot
 
